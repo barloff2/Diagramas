@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2022-03-04T05:23:07.130Z" agent="5.0 (Windows)" etag="SV0oostm7-GEwF1B--EO" version="16.6.5" type="github" pages="8">
+<mxfile host="app.diagrams.net" modified="2022-03-04T05:23:19.944Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.102 Safari/537.36 Edg/98.0.1108.62" etag="vUBrKfhDnj0I7lmotr2l" version="16.6.5" type="github" pages="8">
   <diagram id="R2lEEEUBdFMjLlhIrx00" name="Diagrama relacional">
-    <mxGraphModel dx="1422" dy="752" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0" extFonts="Permanent Marker^https://fonts.googleapis.com/css?family=Permanent+Marker">
+    <mxGraphModel dx="1108" dy="482" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0" extFonts="Permanent Marker^https://fonts.googleapis.com/css?family=Permanent+Marker">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -1281,7 +1281,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="C8bxmIQV-uo6SSZ7gMIW" name="diagrama de clases">
-    <mxGraphModel dx="2249" dy="1921" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2013" dy="1965" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0E0SBSzSTfMB75aP3sV3-0" />
         <mxCell id="0E0SBSzSTfMB75aP3sV3-1" parent="0E0SBSzSTfMB75aP3sV3-0" />
@@ -1791,7 +1791,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="a4WvMuaX8zQSuVksMaST" name="Diagrama de Estados: Consulta">
-    <mxGraphModel dx="1422" dy="752" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1186" dy="796" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="AmcLRLNbUtp2ao0zLihY-0" />
         <mxCell id="AmcLRLNbUtp2ao0zLihY-1" parent="AmcLRLNbUtp2ao0zLihY-0" />
@@ -1844,7 +1844,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="_LpBV_FIpOzB2ZUGt1-2" name="Diagrama de estados: Usuario">
-    <mxGraphModel dx="1422" dy="752" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" page="1" fold="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="7buPcTLyH9VxOCsxVhlh-0" />
         <mxCell id="7buPcTLyH9VxOCsxVhlh-1" parent="7buPcTLyH9VxOCsxVhlh-0" />
@@ -1917,7 +1917,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="JO8tIIcK4c5iXCc1TOgh" name="Diagrama de actividades">
-    <mxGraphModel dx="1422" dy="752" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1847" dy="803" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="zgmNbjxmm3TJJxB04Tq1-0" />
         <mxCell id="zgmNbjxmm3TJJxB04Tq1-1" parent="zgmNbjxmm3TJJxB04Tq1-0" />
@@ -2021,7 +2021,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="zgmNbjxmm3TJJxB04Tq1-26" value="" style="points=[[0.145,0.145,0],[0.5,0,0],[0.855,0.145,0],[1,0.5,0],[0.855,0.855,0],[0.5,1,0],[0.145,0.855,0],[0,0.5,0]];shape=mxgraph.bpmn.event;html=1;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;verticalAlign=top;align=center;perimeter=ellipsePerimeter;outlineConnect=0;aspect=fixed;outline=standard;symbol=general;fontSize=12;strokeWidth=3;" parent="zgmNbjxmm3TJJxB04Tq1-24" vertex="1">
-          <mxGeometry x="288" y="40" width="50" height="50" as="geometry" />
+          <mxGeometry x="286" y="40" width="50" height="50" as="geometry" />
         </mxCell>
         <mxCell id="zgmNbjxmm3TJJxB04Tq1-27" value="Ingresar a consultantes" style="whiteSpace=wrap;html=1;fontSize=12;verticalAlign=middle;labelBackgroundColor=#ffffff;strokeWidth=3;align=center;" parent="zgmNbjxmm3TJJxB04Tq1-24" vertex="1">
           <mxGeometry x="248" y="125" width="126" height="60" as="geometry" />
