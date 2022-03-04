@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-03-04T14:36:38.663Z" agent="5.0 (Windows)" etag="M13r6lkdtT4R8apyyCxT" version="16.6.6" type="github" pages="4">
+<mxfile host="app.diagrams.net" modified="2022-03-04T14:37:02.173Z" agent="5.0 (Windows)" etag="2rTDhy6AcOjmrBticB6w" version="16.6.6" type="github" pages="4">
   <diagram id="2r_VohU2_wrSIkmMMugK" name="Caso de uso Ingreso al sistema">
     <mxGraphModel dx="1422" dy="752" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -133,7 +133,7 @@
       </root>
     </mxGraphModel>
   </diagram>
-  <diagram id="GuSX10thduRVi5n7att_" name="Page-4">
+  <diagram id="GuSX10thduRVi5n7att_" name="Diagrama de estado: Vendedor">
     <mxGraphModel dx="2249" dy="752" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="8k2iRk-zju7mYM7hd7b4-0" />
