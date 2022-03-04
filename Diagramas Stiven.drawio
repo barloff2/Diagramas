@@ -1,1 +1,86 @@
-<mxfile host="app.diagrams.net" modified="2022-03-04T14:03:09.608Z" agent="5.0 (Windows)" version="16.6.6" etag="HADfgWBxuZbmfEfkqF34" type="github"><diagram id="2r_VohU2_wrSIkmMMugK">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2022-03-04T14:11:50.153Z" agent="5.0 (Windows)" etag="9NCIB6eAKj6-b41VHMC8" version="16.6.6" type="github" pages="2">
+  <diagram id="2r_VohU2_wrSIkmMMugK" name="Caso de uso Ingreso al sistema">
+    <mxGraphModel dx="1422" dy="752" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="IsbKVrzLAY1zWAiUxANt-4" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;endFill=0;" edge="1" parent="1" source="IsbKVrzLAY1zWAiUxANt-1" target="IsbKVrzLAY1zWAiUxANt-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="IsbKVrzLAY1zWAiUxANt-1" value="Vendedor" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;" vertex="1" parent="1">
+          <mxGeometry x="80" y="300" width="30" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="IsbKVrzLAY1zWAiUxANt-2" value="SICV" style="shape=umlFrame;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="179" y="145" width="481" height="375" as="geometry" />
+        </mxCell>
+        <mxCell id="IsbKVrzLAY1zWAiUxANt-3" value="Ingreso al sitema" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="360" y="250" width="140" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="IsbKVrzLAY1zWAiUxANt-7" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=classic;endFill=1;dashed=1;" edge="1" parent="1" source="IsbKVrzLAY1zWAiUxANt-5" target="IsbKVrzLAY1zWAiUxANt-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="IsbKVrzLAY1zWAiUxANt-9" value="&amp;lt;extend&amp;gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="IsbKVrzLAY1zWAiUxANt-7">
+          <mxGeometry x="-0.3721" y="1" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="IsbKVrzLAY1zWAiUxANt-5" value="Registrar Vehiculo" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="250" y="380" width="140" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="IsbKVrzLAY1zWAiUxANt-8" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=classic;endFill=1;dashed=1;startArrow=none;startFill=0;" edge="1" parent="1" source="IsbKVrzLAY1zWAiUxANt-6" target="IsbKVrzLAY1zWAiUxANt-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="IsbKVrzLAY1zWAiUxANt-10" value="&amp;lt;extends&amp;gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="IsbKVrzLAY1zWAiUxANt-8">
+          <mxGeometry x="-0.3309" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="IsbKVrzLAY1zWAiUxANt-6" value="Editar Perfil" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="460" y="390" width="140" height="70" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="BbDDv75tYHa_LXaL0L6z" name="Caso de uso consultar vehiculo">
+    <mxGraphModel dx="1422" dy="752" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="6iV2gQKGcsVNJlw0BaES-0" />
+        <mxCell id="6iV2gQKGcsVNJlw0BaES-1" parent="6iV2gQKGcsVNJlw0BaES-0" />
+        <mxCell id="py2xR3MUC2B1_8jr3Scz-2" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;startArrow=none;startFill=0;endArrow=none;endFill=0;" edge="1" parent="6iV2gQKGcsVNJlw0BaES-1" source="6iV2gQKGcsVNJlw0BaES-2" target="QquSr7EaG3c1re2R-s63-1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="6iV2gQKGcsVNJlw0BaES-2" value="Comprador" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;" vertex="1" parent="6iV2gQKGcsVNJlw0BaES-1">
+          <mxGeometry x="90" y="310" width="30" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="6iV2gQKGcsVNJlw0BaES-3" value="SICV" style="shape=umlFrame;whiteSpace=wrap;html=1;" vertex="1" parent="6iV2gQKGcsVNJlw0BaES-1">
+          <mxGeometry x="164" y="170" width="500" height="370" as="geometry" />
+        </mxCell>
+        <mxCell id="QquSr7EaG3c1re2R-s63-1" value="Consultar Vehículo" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="6iV2gQKGcsVNJlw0BaES-1">
+          <mxGeometry x="344" y="270" width="140" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="py2xR3MUC2B1_8jr3Scz-4" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;dashed=1;startArrow=none;startFill=0;endArrow=classic;endFill=1;" edge="1" parent="6iV2gQKGcsVNJlw0BaES-1" source="py2xR3MUC2B1_8jr3Scz-0" target="QquSr7EaG3c1re2R-s63-1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="py2xR3MUC2B1_8jr3Scz-6" value="&amp;lt;extend&amp;gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="py2xR3MUC2B1_8jr3Scz-4">
+          <mxGeometry x="-0.4248" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="py2xR3MUC2B1_8jr3Scz-0" value="Consultar Categoria" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="6iV2gQKGcsVNJlw0BaES-1">
+          <mxGeometry x="240" y="420" width="140" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="py2xR3MUC2B1_8jr3Scz-5" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;dashed=1;startArrow=none;startFill=0;endArrow=classic;endFill=1;" edge="1" parent="6iV2gQKGcsVNJlw0BaES-1" source="py2xR3MUC2B1_8jr3Scz-1" target="QquSr7EaG3c1re2R-s63-1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="py2xR3MUC2B1_8jr3Scz-7" value="&amp;lt;extend&amp;gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="py2xR3MUC2B1_8jr3Scz-5">
+          <mxGeometry x="-0.2374" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="py2xR3MUC2B1_8jr3Scz-1" value="Consultar Precio" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="6iV2gQKGcsVNJlw0BaES-1">
+          <mxGeometry x="450" y="420" width="140" height="70" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
