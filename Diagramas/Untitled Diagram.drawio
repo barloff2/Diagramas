@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2022-03-05T00:47:43.622Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.102 Safari/537.36" etag="DNRaJrGPMDMpzgvp2zxH" version="16.6.6" type="github" pages="12">
+<mxfile host="app.diagrams.net" modified="2022-03-05T00:58:37.946Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.102 Safari/537.36" etag="_CJ6mLv-ILRYDAsmOZ7P" version="16.6.6" type="github" pages="12">
   <diagram id="R2lEEEUBdFMjLlhIrx00" name="D. Relacional">
-    <mxGraphModel dx="782" dy="468" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0" extFonts="Permanent Marker^https://fonts.googleapis.com/css?family=Permanent+Marker">
+    <mxGraphModel dx="1422" dy="794" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0" extFonts="Permanent Marker^https://fonts.googleapis.com/css?family=Permanent+Marker">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -1281,7 +1281,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="C8bxmIQV-uo6SSZ7gMIW" name="D. de Clases">
-    <mxGraphModel dx="1849" dy="1637" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2249" dy="1963" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0E0SBSzSTfMB75aP3sV3-0" />
         <mxCell id="0E0SBSzSTfMB75aP3sV3-1" parent="0E0SBSzSTfMB75aP3sV3-0" />
@@ -2146,6 +2146,9 @@
       <root>
         <mxCell id="MEBBNxzf81j313-_4xCK-0" />
         <mxCell id="MEBBNxzf81j313-_4xCK-1" parent="MEBBNxzf81j313-_4xCK-0" />
+        <mxCell id="P5fTDGLkLn7ESOgwSQ-o-0" value="Actor" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="MEBBNxzf81j313-_4xCK-1">
+          <mxGeometry x="90" y="120" width="30" height="60" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
