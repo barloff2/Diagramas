@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-03-07T15:04:22.462Z" agent="5.0 (Windows)" etag="2YkPyDnW2Adn53IxWe6A" version="16.6.6" type="github" pages="8">
+<mxfile host="app.diagrams.net" modified="2022-03-07T15:06:14.938Z" agent="5.0 (Windows)" etag="U1YZo7uHqhRoBfTQRUPz" version="16.6.6" type="github" pages="8">
   <diagram id="2r_VohU2_wrSIkmMMugK" name="D. Caso de uso Ingreso al sistema">
     <mxGraphModel dx="1646" dy="860" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -944,7 +944,7 @@
         <mxCell id="l0rNJK13mp4Dw7ZiChgM-50" value="Sistema" style="swimlane;startSize=20;" vertex="1" parent="l0rNJK13mp4Dw7ZiChgM-49">
           <mxGeometry y="20" width="490" height="770" as="geometry" />
         </mxCell>
-        <mxCell id="l0rNJK13mp4Dw7ZiChgM-57" value="Desplegar página para ingresar vehiculo" style="whiteSpace=wrap;html=1;strokeWidth=2;" vertex="1" parent="l0rNJK13mp4Dw7ZiChgM-50">
+        <mxCell id="l0rNJK13mp4Dw7ZiChgM-57" value="Desplegar página para ingresar vehículo" style="whiteSpace=wrap;html=1;strokeWidth=2;" vertex="1" parent="l0rNJK13mp4Dw7ZiChgM-50">
           <mxGeometry x="185" y="110" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="l0rNJK13mp4Dw7ZiChgM-63" value="" style="rhombus;whiteSpace=wrap;html=1;strokeWidth=2;" vertex="1" parent="l0rNJK13mp4Dw7ZiChgM-50">
