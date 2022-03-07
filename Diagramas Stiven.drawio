@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-03-07T13:42:55.742Z" agent="5.0 (Windows)" etag="7-yYdGBYn23V6ronpYFv" version="16.6.6" type="github" pages="6">
+<mxfile host="app.diagrams.net" modified="2022-03-07T13:43:14.211Z" agent="5.0 (Windows)" etag="qF-J2buzE1lsJB2YrwTH" version="16.6.6" type="github" pages="6">
   <diagram id="2r_VohU2_wrSIkmMMugK" name="Caso de uso Ingreso al sistema">
     <mxGraphModel dx="1422" dy="752" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -374,7 +374,7 @@
       <root>
         <mxCell id="XAbDhvnUHUq_FH5wyRS4-0" />
         <mxCell id="XAbDhvnUHUq_FH5wyRS4-1" parent="XAbDhvnUHUq_FH5wyRS4-0" />
-        <mxCell id="XAbDhvnUHUq_FH5wyRS4-2" value="Modelo Entidad relación" style="text;strokeColor=none;fillColor=none;html=1;fontSize=24;fontStyle=1;verticalAlign=middle;align=center;" vertex="1" parent="XAbDhvnUHUq_FH5wyRS4-1">
+        <mxCell id="XAbDhvnUHUq_FH5wyRS4-2" value="Modelo relacional" style="text;strokeColor=none;fillColor=none;html=1;fontSize=24;fontStyle=1;verticalAlign=middle;align=center;" vertex="1" parent="XAbDhvnUHUq_FH5wyRS4-1">
           <mxGeometry x="270" y="80" width="330" height="40" as="geometry" />
         </mxCell>
         <mxCell id="XAbDhvnUHUq_FH5wyRS4-201" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;startArrow=ERzeroToOne;startFill=0;endArrow=ERzeroToOne;endFill=0;startSize=8;endSize=8;strokeWidth=1;" edge="1" parent="XAbDhvnUHUq_FH5wyRS4-1" source="XAbDhvnUHUq_FH5wyRS4-3" target="XAbDhvnUHUq_FH5wyRS4-87">
