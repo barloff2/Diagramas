@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-03-08T01:58:04.534Z" agent="5.0 (Windows)" etag="b26NkXmlnjHEbKQKHWDr" version="16.6.6" type="github" pages="11">
+<mxfile host="app.diagrams.net" modified="2022-03-08T02:03:27.429Z" agent="5.0 (Windows)" etag="KAPLRlW7QKAI88JfhuTf" version="16.6.6" type="github" pages="11">
   <diagram id="R2lEEEUBdFMjLlhIrx00" name="D. Relacional">
     <mxGraphModel dx="1646" dy="860" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0" extFonts="Permanent Marker^https://fonts.googleapis.com/css?family=Permanent+Marker">
       <root>
@@ -2276,7 +2276,7 @@
             <mxPoint x="250.42000000000007" y="367.0577953571428" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="9axWaSkY4Ixl2UgTYqKb-25" value="Despliega perfil consultante + listado de consultas" style="html=1;verticalAlign=bottom;labelBackgroundColor=none;endArrow=open;endFill=0;dashed=1;rounded=0;fontSize=11;entryX=1.045;entryY=0.629;entryDx=0;entryDy=0;entryPerimeter=0;" parent="MEBBNxzf81j313-_4xCK-1" source="9axWaSkY4Ixl2UgTYqKb-5" edge="1">
+        <mxCell id="9axWaSkY4Ixl2UgTYqKb-25" value="Despliega perfil consultante" style="html=1;verticalAlign=bottom;labelBackgroundColor=none;endArrow=open;endFill=0;dashed=1;rounded=0;fontSize=11;entryX=1.045;entryY=0.629;entryDx=0;entryDy=0;entryPerimeter=0;" parent="MEBBNxzf81j313-_4xCK-1" source="9axWaSkY4Ixl2UgTYqKb-5" edge="1">
           <mxGeometry width="160" relative="1" as="geometry">
             <mxPoint x="510" y="437" as="sourcePoint" />
             <mxPoint x="250.45000000000005" y="436.75647821428583" as="targetPoint" />
@@ -2321,6 +2321,88 @@
       <root>
         <mxCell id="jo4oAyEWhmK24bnI_RJ--0" />
         <mxCell id="jo4oAyEWhmK24bnI_RJ--1" parent="jo4oAyEWhmK24bnI_RJ--0" />
+        <mxCell id="eT5X-34Q6T1RvgPuMBWS-0" value="Psicólogo" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;labelBackgroundColor=none;fontSize=11;" vertex="1" parent="jo4oAyEWhmK24bnI_RJ--1">
+          <mxGeometry x="50" y="226" width="30" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="eT5X-34Q6T1RvgPuMBWS-1" value="Consultante" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;collapsible=0;recursiveResize=0;outlineConnect=0;labelBackgroundColor=none;fontSize=11;rounded=0;" vertex="1" parent="jo4oAyEWhmK24bnI_RJ--1">
+          <mxGeometry x="480" y="160" width="100" height="440" as="geometry" />
+        </mxCell>
+        <mxCell id="eT5X-34Q6T1RvgPuMBWS-2" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;labelBackgroundColor=none;fontSize=11;" vertex="1" parent="eT5X-34Q6T1RvgPuMBWS-1">
+          <mxGeometry x="45" y="100" width="10" height="190" as="geometry" />
+        </mxCell>
+        <mxCell id="eT5X-34Q6T1RvgPuMBWS-3" value="" style="group" vertex="1" connectable="0" parent="jo4oAyEWhmK24bnI_RJ--1">
+          <mxGeometry x="220" y="160" width="60" height="560" as="geometry" />
+        </mxCell>
+        <mxCell id="eT5X-34Q6T1RvgPuMBWS-4" value="&lt;div&gt;Interfaz&lt;/div&gt;&lt;div&gt;INSPIRAR&lt;br&gt;&lt;/div&gt;" style="ellipse;html=1;labelBackgroundColor=none;fontSize=11;align=center;verticalAlign=middle;" vertex="1" parent="eT5X-34Q6T1RvgPuMBWS-3">
+          <mxGeometry x="-5" y="-10" width="60" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="eT5X-34Q6T1RvgPuMBWS-5" value="" style="endArrow=none;html=1;rounded=0;align=center;verticalAlign=top;endFill=0;labelBackgroundColor=none;endSize=6;fontSize=11;dashed=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="eT5X-34Q6T1RvgPuMBWS-3" source="eT5X-34Q6T1RvgPuMBWS-4">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="25" y="440" as="targetPoint" />
+            <mxPoint x="25" y="60" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="eT5X-34Q6T1RvgPuMBWS-6" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;labelBackgroundColor=none;fontSize=11;" vertex="1" parent="eT5X-34Q6T1RvgPuMBWS-3">
+          <mxGeometry x="20" y="80" width="10" height="330" as="geometry" />
+        </mxCell>
+        <mxCell id="eT5X-34Q6T1RvgPuMBWS-7" value="1.1 mostrarrConsultantes()" style="html=1;verticalAlign=bottom;labelBackgroundColor=none;endArrow=open;endFill=0;rounded=0;fontSize=11;exitX=0.5;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;entryX=-0.1;entryY=0.042;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="jo4oAyEWhmK24bnI_RJ--1" source="eT5X-34Q6T1RvgPuMBWS-0" target="eT5X-34Q6T1RvgPuMBWS-6">
+          <mxGeometry width="160" relative="1" as="geometry">
+            <mxPoint x="266" y="230" as="sourcePoint" />
+            <mxPoint x="230" y="250" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="eT5X-34Q6T1RvgPuMBWS-8" value="Despliega la sección de historia clínica" style="html=1;verticalAlign=bottom;labelBackgroundColor=none;endArrow=open;endFill=0;dashed=1;rounded=0;fontSize=11;entryX=1.044;entryY=0.907;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="jo4oAyEWhmK24bnI_RJ--1" source="eT5X-34Q6T1RvgPuMBWS-9">
+          <mxGeometry x="0.2504" width="160" relative="1" as="geometry">
+            <mxPoint x="524.73" y="449.79999999999995" as="sourcePoint" />
+            <mxPoint x="250.44000000000005" y="520.2747275000002" as="targetPoint" />
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="eT5X-34Q6T1RvgPuMBWS-9" value="Consulta" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;collapsible=0;recursiveResize=0;outlineConnect=0;labelBackgroundColor=none;fontSize=11;" vertex="1" parent="jo4oAyEWhmK24bnI_RJ--1">
+          <mxGeometry x="600" y="160" width="100" height="440" as="geometry" />
+        </mxCell>
+        <mxCell id="eT5X-34Q6T1RvgPuMBWS-10" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;labelBackgroundColor=none;fontSize=11;" vertex="1" parent="eT5X-34Q6T1RvgPuMBWS-9">
+          <mxGeometry x="45" y="290" width="10" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="eT5X-34Q6T1RvgPuMBWS-11" value="1.2 buscarConsultante()" style="html=1;verticalAlign=bottom;labelBackgroundColor=none;endArrow=open;endFill=0;rounded=0;fontSize=11;exitX=1.016;exitY=0.212;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="jo4oAyEWhmK24bnI_RJ--1" target="eT5X-34Q6T1RvgPuMBWS-1">
+          <mxGeometry width="160" relative="1" as="geometry">
+            <mxPoint x="250.16000000000008" y="311.47910428571436" as="sourcePoint" />
+            <mxPoint x="430" y="300" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="eT5X-34Q6T1RvgPuMBWS-12" value="Lista de consultantes" style="html=1;verticalAlign=bottom;labelBackgroundColor=none;endArrow=open;endFill=0;dashed=1;rounded=0;fontSize=11;entryX=1.035;entryY=0.072;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="jo4oAyEWhmK24bnI_RJ--1" source="eT5X-34Q6T1RvgPuMBWS-2">
+          <mxGeometry width="160" relative="1" as="geometry">
+            <mxPoint x="570.49" y="361.95000000000005" as="sourcePoint" />
+            <mxPoint x="250.3499999999999" y="269.4195542857144" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="eT5X-34Q6T1RvgPuMBWS-13" value="1.3 seleccionarConsultante()" style="html=1;verticalAlign=bottom;labelBackgroundColor=none;endArrow=open;endFill=0;rounded=0;fontSize=11;exitX=1.027;exitY=0.49;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="jo4oAyEWhmK24bnI_RJ--1" target="eT5X-34Q6T1RvgPuMBWS-1">
+          <mxGeometry width="160" relative="1" as="geometry">
+            <mxPoint x="250.26999999999998" y="394.9973535714287" as="sourcePoint" />
+            <mxPoint x="450" y="360" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="eT5X-34Q6T1RvgPuMBWS-14" value="Despliega Consultante" style="html=1;verticalAlign=bottom;labelBackgroundColor=none;endArrow=open;endFill=0;dashed=1;rounded=0;fontSize=11;entryX=1.042;entryY=0.397;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="jo4oAyEWhmK24bnI_RJ--1" source="eT5X-34Q6T1RvgPuMBWS-1">
+          <mxGeometry width="160" relative="1" as="geometry">
+            <mxPoint x="450" y="340" as="sourcePoint" />
+            <mxPoint x="250.42000000000007" y="367.0577953571428" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="eT5X-34Q6T1RvgPuMBWS-15" value="Despliega perfil consultante" style="html=1;verticalAlign=bottom;labelBackgroundColor=none;endArrow=open;endFill=0;dashed=1;rounded=0;fontSize=11;entryX=1.045;entryY=0.629;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="jo4oAyEWhmK24bnI_RJ--1" source="eT5X-34Q6T1RvgPuMBWS-1">
+          <mxGeometry width="160" relative="1" as="geometry">
+            <mxPoint x="510" y="437" as="sourcePoint" />
+            <mxPoint x="250.45000000000005" y="436.75647821428583" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="eT5X-34Q6T1RvgPuMBWS-16" value="2. mostrarHistorialConsulta()" style="html=1;verticalAlign=bottom;labelBackgroundColor=none;endArrow=open;endFill=0;rounded=0;fontSize=11;" edge="1" parent="jo4oAyEWhmK24bnI_RJ--1" source="eT5X-34Q6T1RvgPuMBWS-6" target="eT5X-34Q6T1RvgPuMBWS-9">
+          <mxGeometry width="160" relative="1" as="geometry">
+            <mxPoint x="280" y="480" as="sourcePoint" />
+            <mxPoint x="620" y="480" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="550" y="470" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
