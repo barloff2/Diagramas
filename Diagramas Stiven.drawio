@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-03-09T22:40:00.234Z" agent="5.0 (Windows)" etag="Co6jiTM4GwdGuGqfljyw" version="16.6.7" type="github" pages="11">
+<mxfile host="app.diagrams.net" modified="2022-03-09T22:41:08.394Z" agent="5.0 (Windows)" etag="RJu_-HxdACA3VuS3TBkV" version="16.6.7" type="github" pages="11">
   <diagram id="2r_VohU2_wrSIkmMMugK" name="D. Caso de uso Ingreso al sistema">
     <mxGraphModel dx="1646" dy="860" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -203,7 +203,7 @@
         <mxCell id="0QS4IYa8kzxrMIZf37TH-0" />
         <mxCell id="0QS4IYa8kzxrMIZf37TH-1" parent="0QS4IYa8kzxrMIZf37TH-0" />
         <mxCell id="0QS4IYa8kzxrMIZf37TH-96" value="Modelo entidad relación" style="text;strokeColor=none;fillColor=none;html=1;fontSize=24;fontStyle=1;verticalAlign=middle;align=center;" parent="0QS4IYa8kzxrMIZf37TH-1" vertex="1">
-          <mxGeometry x="520" y="-140" width="400" height="40" as="geometry" />
+          <mxGeometry x="640" y="-140" width="400" height="40" as="geometry" />
         </mxCell>
         <mxCell id="r-WXZ3ofQFOCJXnufIdo-23" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;endFill=0;" parent="0QS4IYa8kzxrMIZf37TH-1" source="r-WXZ3ofQFOCJXnufIdo-0" target="r-WXZ3ofQFOCJXnufIdo-48" edge="1">
           <mxGeometry relative="1" as="geometry">
