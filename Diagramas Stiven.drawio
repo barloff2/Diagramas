@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-03-09T22:36:52.646Z" agent="5.0 (Windows)" etag="xM7-dNd9gJCa_NPy8TJo" version="16.6.7" type="github" pages="11">
+<mxfile host="app.diagrams.net" modified="2022-03-09T22:38:28.242Z" agent="5.0 (Windows)" etag="Mskxn7UTuUagRiPyFsoc" version="16.6.7" type="github" pages="11">
   <diagram id="2r_VohU2_wrSIkmMMugK" name="D. Caso de uso Ingreso al sistema">
     <mxGraphModel dx="1646" dy="860" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -90,7 +90,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="64RJPVXA8O9sf4RG52Rx" name="D. de estado vehiculo">
-    <mxGraphModel dx="1695" dy="450" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2473" dy="860" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="xswd5ZVKZIJ1PRvP2qzF-0" />
         <mxCell id="xswd5ZVKZIJ1PRvP2qzF-1" parent="xswd5ZVKZIJ1PRvP2qzF-0" />
@@ -125,7 +125,7 @@
           <mxGeometry x="130" y="435" width="110" height="20" as="geometry" />
         </mxCell>
         <mxCell id="8lzR3zlxzNffQdhEEC-L-10" value="registrarVentaVehiculo()" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="xswd5ZVKZIJ1PRvP2qzF-1" vertex="1">
-          <mxGeometry x="370" y="435" width="150" height="20" as="geometry" />
+          <mxGeometry x="365" y="435" width="150" height="20" as="geometry" />
         </mxCell>
         <mxCell id="8lzR3zlxzNffQdhEEC-L-13" value="Diagrama de estado: Vehículo" style="text;strokeColor=none;fillColor=none;html=1;fontSize=24;fontStyle=1;verticalAlign=middle;align=center;" parent="xswd5ZVKZIJ1PRvP2qzF-1" vertex="1">
           <mxGeometry x="105" y="340" width="410" height="40" as="geometry" />
