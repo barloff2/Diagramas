@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-03-11T04:39:29.468Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/99.0.4844.51 Safari/537.36" etag="FQYWuDqHhbGM-pusUZYk" version="17.1.0" type="github" pages="9">
+<mxfile host="app.diagrams.net" modified="2022-03-11T04:40:38.108Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/99.0.4844.51 Safari/537.36" etag="0Z9ToU5mCo6aczf8sVvN" version="17.1.0" type="github" pages="9">
   <diagram id="NCh4oBmM9APoLs2Gsict" name="D. Entidad Relación">
     <mxGraphModel dx="3792" dy="2929" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -2431,7 +2431,7 @@
         <mxCell id="S6vsmFmqJQY59fPpGkdk-0" value="Usuario" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;direction=east;" parent="1_0XsinDyx6rq08LRmwD-1" vertex="1">
           <mxGeometry x="60" y="269" width="50" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="S6vsmFmqJQY59fPpGkdk-3" value="Diagrama caso de uso Gestion usuario" style="text;strokeColor=none;fillColor=none;html=1;fontSize=24;fontStyle=1;verticalAlign=middle;align=center;" parent="1_0XsinDyx6rq08LRmwD-1" vertex="1">
+        <mxCell id="S6vsmFmqJQY59fPpGkdk-3" value="Diagrama caso de uso: Gestion usuario" style="text;strokeColor=none;fillColor=none;html=1;fontSize=24;fontStyle=1;verticalAlign=middle;align=center;" parent="1_0XsinDyx6rq08LRmwD-1" vertex="1">
           <mxGeometry x="180" y="49" width="467" height="40" as="geometry" />
         </mxCell>
         <mxCell id="S6vsmFmqJQY59fPpGkdk-6" value="Inspirar" style="shape=umlFrame;whiteSpace=wrap;html=1;" parent="1_0XsinDyx6rq08LRmwD-1" vertex="1">
@@ -2484,7 +2484,7 @@
         <mxCell id="sk9Y248zYODJuTIbXu7B-0" value="Psicólogo" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;direction=east;" vertex="1" parent="1_0XsinDyx6rq08LRmwD-1">
           <mxGeometry x="60" y="814" width="50" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="sk9Y248zYODJuTIbXu7B-1" value="Diagrama caso de uso Gestionar Consulta" style="text;strokeColor=none;fillColor=none;html=1;fontSize=24;fontStyle=1;verticalAlign=middle;align=center;" vertex="1" parent="1_0XsinDyx6rq08LRmwD-1">
+        <mxCell id="sk9Y248zYODJuTIbXu7B-1" value="Diagrama caso de uso: Gestionar Consulta" style="text;strokeColor=none;fillColor=none;html=1;fontSize=24;fontStyle=1;verticalAlign=middle;align=center;" vertex="1" parent="1_0XsinDyx6rq08LRmwD-1">
           <mxGeometry x="175" y="594" width="497" height="40" as="geometry" />
         </mxCell>
         <mxCell id="sk9Y248zYODJuTIbXu7B-2" value="Inspirar" style="shape=umlFrame;whiteSpace=wrap;html=1;" vertex="1" parent="1_0XsinDyx6rq08LRmwD-1">
