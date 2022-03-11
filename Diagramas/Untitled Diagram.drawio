@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2022-03-11T04:19:43.029Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/99.0.4844.51 Safari/537.36" etag="ZhB_en5IctZUQlF2eQIx" version="17.1.0" type="github" pages="11">
+<mxfile host="app.diagrams.net" modified="2022-03-11T04:22:02.724Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/99.0.4844.51 Safari/537.36" etag="hi8RVWPkkEe4Tyy1afXu" version="17.1.0" type="github" pages="11">
   <diagram id="R2lEEEUBdFMjLlhIrx00" name="D. Relacional">
-    <mxGraphModel dx="4803" dy="3660" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0" extFonts="Permanent Marker^https://fonts.googleapis.com/css?family=Permanent+Marker">
+    <mxGraphModel dx="1641" dy="1569" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0" extFonts="Permanent Marker^https://fonts.googleapis.com/css?family=Permanent+Marker">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -743,7 +743,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="d0CbaWjEYHhxdLxqzWZx-1" value="Diagrama relacional" style="text;strokeColor=none;fillColor=none;html=1;fontSize=24;fontStyle=1;verticalAlign=middle;align=center;" parent="1" vertex="1">
-          <mxGeometry x="200" y="-980" width="450" height="40" as="geometry" />
+          <mxGeometry x="201" y="-980" width="450" height="40" as="geometry" />
         </mxCell>
         <mxCell id="5FqkmHJvlna5ScMPMrRd-1" value="Agenda" style="shape=table;startSize=30;container=1;collapsible=1;childLayout=tableLayout;fixedRows=1;rowLines=0;fontStyle=1;align=center;resizeLast=1;dashed=1;fontSize=15;html=1;" parent="1" vertex="1">
           <mxGeometry x="-447" y="-134" width="270" height="250" as="geometry" />
