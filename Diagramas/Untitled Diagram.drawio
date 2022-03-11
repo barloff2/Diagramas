@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-03-11T04:40:38.108Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/99.0.4844.51 Safari/537.36" etag="0Z9ToU5mCo6aczf8sVvN" version="17.1.0" type="github" pages="9">
+<mxfile host="app.diagrams.net" modified="2022-03-11T04:42:33.248Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/99.0.4844.51 Safari/537.36" etag="GEl2Jnf2PtC3uVCkYGcY" version="17.1.0" type="github" pages="9">
   <diagram id="NCh4oBmM9APoLs2Gsict" name="D. Entidad Relación">
     <mxGraphModel dx="3792" dy="2929" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -2424,7 +2424,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="E8dlmk8UTCStBLw3wRD-" name="D. Caso de Uso: Gestión Consulta">
-    <mxGraphModel dx="1977" dy="1280" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1977" dy="1173" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="1_0XsinDyx6rq08LRmwD-0" />
         <mxCell id="1_0XsinDyx6rq08LRmwD-1" parent="1_0XsinDyx6rq08LRmwD-0" />
@@ -2526,7 +2526,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="a4WvMuaX8zQSuVksMaST" name="D. Estados: Consulta ">
-    <mxGraphModel dx="1825" dy="1182" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1825" dy="1083" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="AmcLRLNbUtp2ao0zLihY-0" />
         <mxCell id="AmcLRLNbUtp2ao0zLihY-1" parent="AmcLRLNbUtp2ao0zLihY-0" />
@@ -2617,7 +2617,7 @@
         <mxCell id="Jn3_RAkN7aRAxypn8YWQ-7" value="Activo" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="AmcLRLNbUtp2ao0zLihY-1">
           <mxGeometry x="409" y="850" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="Jn3_RAkN7aRAxypn8YWQ-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;endArrow=none;endFill=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="AmcLRLNbUtp2ao0zLihY-1" source="Jn3_RAkN7aRAxypn8YWQ-9" target="Jn3_RAkN7aRAxypn8YWQ-19">
+        <mxCell id="Jn3_RAkN7aRAxypn8YWQ-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;endArrow=classicThin;endFill=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="AmcLRLNbUtp2ao0zLihY-1" source="Jn3_RAkN7aRAxypn8YWQ-9" target="Jn3_RAkN7aRAxypn8YWQ-19">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="769" y="880" as="targetPoint" />
           </mxGeometry>
