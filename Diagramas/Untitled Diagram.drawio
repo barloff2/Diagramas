@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-03-11T04:55:35.224Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/99.0.4844.51 Safari/537.36" etag="8BgE8HRcTiDPxxXF-OBx" version="17.1.0" type="github" pages="8">
+<mxfile host="app.diagrams.net" modified="2022-03-11T04:56:02.267Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/99.0.4844.51 Safari/537.36" etag="Wv07VKjXILEtgMT0bIX2" version="17.1.0" type="github" pages="8">
   <diagram id="NCh4oBmM9APoLs2Gsict" name="D. Entidad Relación">
     <mxGraphModel dx="3792" dy="2929" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -2929,7 +2929,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="pDb6tmBnChmOeyDul7ry" name="D. Secuencia 1">
-    <mxGraphModel dx="2372" dy="1408" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1977" dy="1173" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="MEBBNxzf81j313-_4xCK-0" />
         <mxCell id="MEBBNxzf81j313-_4xCK-1" parent="MEBBNxzf81j313-_4xCK-0" />
@@ -3057,7 +3057,7 @@
           <mxGeometry x="981" y="230" width="520" height="40" as="geometry" />
         </mxCell>
         <mxCell id="IwpO-CqrM54fQlkxciZ3-0" value="Psicólogo" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;labelBackgroundColor=none;fontSize=11;" vertex="1" parent="MEBBNxzf81j313-_4xCK-1">
-          <mxGeometry x="916" y="408" width="30" height="60" as="geometry" />
+          <mxGeometry x="916" y="405" width="30" height="60" as="geometry" />
         </mxCell>
         <mxCell id="IwpO-CqrM54fQlkxciZ3-1" value="Consultante" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;collapsible=0;recursiveResize=0;outlineConnect=0;labelBackgroundColor=none;fontSize=11;rounded=0;" vertex="1" parent="MEBBNxzf81j313-_4xCK-1">
           <mxGeometry x="1346" y="342" width="100" height="440" as="geometry" />
