@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-03-11T05:11:53.308Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/99.0.4844.51 Safari/537.36" etag="o2wOIuwLEzE1zmnULEoN" version="17.1.0" type="github" pages="8">
+<mxfile host="app.diagrams.net" modified="2022-03-11T05:12:06.899Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/99.0.4844.51 Safari/537.36" etag="LHw5Mcd-ATrSCKa73uhL" version="17.1.0" type="github" pages="8">
   <diagram id="NCh4oBmM9APoLs2Gsict" name="D. Entidad Relación">
     <mxGraphModel dx="3792" dy="2929" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -2928,7 +2928,7 @@
       </root>
     </mxGraphModel>
   </diagram>
-  <diagram id="pDb6tmBnChmOeyDul7ry" name="D. Secuencia 1">
+  <diagram id="pDb6tmBnChmOeyDul7ry" name="D. Secuencia">
     <mxGraphModel dx="3389" dy="2011" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="MEBBNxzf81j313-_4xCK-0" />
