@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-03-16T19:33:31.061Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/99.0.4844.51 Safari/537.36" etag="KBaWQ2qZDE15fsxqwyjf" version="17.1.1" type="github" pages="9">
+<mxfile host="app.diagrams.net" modified="2022-03-16T20:30:35.082Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/99.0.4844.51 Safari/537.36" etag="PsumGHTdI6OA3uHrYAEj" version="17.1.1" type="github" pages="9">
   <diagram id="NCh4oBmM9APoLs2Gsict" name="D. Entidad Relación">
     <mxGraphModel dx="2804" dy="2449" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -2544,7 +2544,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="BrrfyGuBWW7XuK32vPW1" name="D. Procesos">
-    <mxGraphModel dx="2036" dy="768" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="2544" dy="1097" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="su331UmGGElN2mKOugGv-0" />
         <mxCell id="su331UmGGElN2mKOugGv-1" parent="su331UmGGElN2mKOugGv-0" />
@@ -2552,7 +2552,7 @@
           <mxGeometry x="-260" y="70" width="520" height="40" as="geometry" />
         </mxCell>
         <mxCell id="_8FVf_-N_wC4pO-E-u0l-0" value="Crear consulta" style="swimlane;html=1;childLayout=stackLayout;resizeParent=1;resizeParentMax=0;horizontal=0;startSize=20;horizontalStack=0;fontSize=18;" parent="su331UmGGElN2mKOugGv-1" vertex="1">
-          <mxGeometry x="-620" y="160" width="1240" height="410" as="geometry" />
+          <mxGeometry x="-620" y="160" width="1180" height="410" as="geometry" />
         </mxCell>
         <mxCell id="_8FVf_-N_wC4pO-E-u0l-12" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=13;endArrow=classicThin;endFill=1;" parent="_8FVf_-N_wC4pO-E-u0l-0" source="_8FVf_-N_wC4pO-E-u0l-9" target="_8FVf_-N_wC4pO-E-u0l-11" edge="1">
           <mxGeometry relative="1" as="geometry" />
@@ -2566,7 +2566,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="_8FVf_-N_wC4pO-E-u0l-1" value="Psicólogo" style="swimlane;html=1;startSize=20;horizontal=0;fontSize=18;" parent="_8FVf_-N_wC4pO-E-u0l-0" vertex="1">
-          <mxGeometry x="20" width="1220" height="210" as="geometry" />
+          <mxGeometry x="20" width="1160" height="210" as="geometry" />
         </mxCell>
         <mxCell id="_8FVf_-N_wC4pO-E-u0l-4" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fontSize=18;fillColor=#d5e8d4;strokeColor=#82b366;" parent="_8FVf_-N_wC4pO-E-u0l-1" vertex="1">
           <mxGeometry x="38" y="95" width="30" height="30" as="geometry" />
@@ -2633,7 +2633,7 @@
           <mxGeometry x="1098" y="154" width="30" height="30" as="geometry" />
         </mxCell>
         <mxCell id="_8FVf_-N_wC4pO-E-u0l-2" value="Sistema: Inspirar" style="swimlane;html=1;startSize=20;horizontal=0;fontSize=18;" parent="_8FVf_-N_wC4pO-E-u0l-0" vertex="1">
-          <mxGeometry x="20" y="210" width="1220" height="200" as="geometry" />
+          <mxGeometry x="20" y="210" width="1160" height="200" as="geometry" />
         </mxCell>
         <mxCell id="_8FVf_-N_wC4pO-E-u0l-9" value="" style="rhombus;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;fontSize=13;" parent="_8FVf_-N_wC4pO-E-u0l-2" vertex="1">
           <mxGeometry x="288.5" y="20" width="50" height="50" as="geometry" />
