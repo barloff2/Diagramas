@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-03-16T20:37:25.689Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/99.0.4844.51 Safari/537.36" etag="9yHxfxHyVcbfSVIQjWh8" version="17.1.1" type="github" pages="9">
+<mxfile host="app.diagrams.net" modified="2022-03-16T20:38:44.516Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/99.0.4844.51 Safari/537.36" etag="PBAXS03WtTLXO_BGly8R" version="17.1.1" type="github" pages="9">
   <diagram id="NCh4oBmM9APoLs2Gsict" name="D. Entidad Relación">
     <mxGraphModel dx="2804" dy="2449" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -2973,7 +2973,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="pDb6tmBnChmOeyDul7ry" name="D. Secuencia">
-    <mxGraphModel dx="791" dy="512" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1318" dy="853" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="MEBBNxzf81j313-_4xCK-0" />
         <mxCell id="MEBBNxzf81j313-_4xCK-1" parent="MEBBNxzf81j313-_4xCK-0" />
@@ -3070,9 +3070,9 @@
             <mxPoint x="287.00000000000006" y="592.0047275000002" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="Gy-PXnyKiNDEBaNvfXwO-7" value="1.2.1 Consultante no se encuentra registrado" style="html=1;verticalAlign=bottom;labelBackgroundColor=none;endArrow=open;endFill=0;dashed=1;rounded=0;fontSize=11;" parent="MEBBNxzf81j313-_4xCK-1" edge="1">
+        <mxCell id="Gy-PXnyKiNDEBaNvfXwO-7" value="1.2.1 Consultante no se encuentra registrado" style="html=1;verticalAlign=bottom;labelBackgroundColor=none;endArrow=open;endFill=0;dashed=1;rounded=0;fontSize=11;exitX=-0.024;exitY=0.127;exitDx=0;exitDy=0;exitPerimeter=0;" parent="MEBBNxzf81j313-_4xCK-1" source="p7OmADCHZgTAUmTzoyre-1" edge="1">
           <mxGeometry x="-0.0018" width="160" relative="1" as="geometry">
-            <mxPoint x="570" y="637" as="sourcePoint" />
+            <mxPoint x="560" y="637" as="sourcePoint" />
             <mxPoint x="287" y="637" as="targetPoint" />
             <Array as="points">
               <mxPoint x="357" y="637" />
@@ -3114,10 +3114,10 @@
         <mxCell id="0XPDr9pzp3cGTynZdxIo-0" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;labelBackgroundColor=none;fontSize=11;" vertex="1" parent="MEBBNxzf81j313-_4xCK-1">
           <mxGeometry x="277" y="629" width="10" height="131" as="geometry" />
         </mxCell>
-        <mxCell id="pmmJShix-guXGTcpaAZR-0" value="1.2.2 registrarConsultante()" style="html=1;verticalAlign=bottom;labelBackgroundColor=none;endArrow=open;endFill=0;rounded=0;fontSize=11;exitX=1.016;exitY=0.212;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="MEBBNxzf81j313-_4xCK-1">
+        <mxCell id="pmmJShix-guXGTcpaAZR-0" value="1.2.2 registrarConsultante()" style="html=1;verticalAlign=bottom;labelBackgroundColor=none;endArrow=open;endFill=0;rounded=0;fontSize=11;exitX=1.016;exitY=0.212;exitDx=0;exitDy=0;exitPerimeter=0;entryX=-0.001;entryY=0.331;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="MEBBNxzf81j313-_4xCK-1" target="p7OmADCHZgTAUmTzoyre-1">
           <mxGeometry width="160" relative="1" as="geometry">
             <mxPoint x="286.9999999999998" y="665.9991042857143" as="sourcePoint" />
-            <mxPoint x="570.3400000000001" y="665.9991042857143" as="targetPoint" />
+            <mxPoint x="560" y="666" as="targetPoint" />
           </mxGeometry>
         </mxCell>
       </root>
