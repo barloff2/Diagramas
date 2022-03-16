@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2022-03-16T19:02:25.302Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/99.0.4844.51 Safari/537.36" etag="qS0W5RG8toHg5WqiNZsM" version="17.1.1" type="github" pages="9">
+<mxfile host="app.diagrams.net" modified="2022-03-16T19:33:31.061Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/99.0.4844.51 Safari/537.36" etag="KBaWQ2qZDE15fsxqwyjf" version="17.1.1" type="github" pages="9">
   <diagram id="NCh4oBmM9APoLs2Gsict" name="D. Entidad Relación">
-    <mxGraphModel dx="2013" dy="1937" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2804" dy="2449" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="OC3763Bib24QmHlfgEVo-0" />
         <mxCell id="OC3763Bib24QmHlfgEVo-1" parent="OC3763Bib24QmHlfgEVo-0" />
@@ -2490,19 +2490,19 @@
         <mxCell id="sk9Y248zYODJuTIbXu7B-2" value="Inspirar" style="shape=umlFrame;whiteSpace=wrap;html=1;" parent="1_0XsinDyx6rq08LRmwD-1" vertex="1">
           <mxGeometry x="170" y="674" width="546" height="360" as="geometry" />
         </mxCell>
-        <mxCell id="sk9Y248zYODJuTIbXu7B-3" value="Registrar Consulta" style="ellipse;whiteSpace=wrap;html=1;" parent="1_0XsinDyx6rq08LRmwD-1" vertex="1">
-          <mxGeometry x="260" y="734" width="140" height="70" as="geometry" />
+        <mxCell id="sk9Y248zYODJuTIbXu7B-3" value="facturar Consulta" style="ellipse;whiteSpace=wrap;html=1;" parent="1_0XsinDyx6rq08LRmwD-1" vertex="1">
+          <mxGeometry x="260" y="777" width="140" height="70" as="geometry" />
         </mxCell>
         <mxCell id="sk9Y248zYODJuTIbXu7B-4" value="Visualizar Consulta" style="ellipse;whiteSpace=wrap;html=1;" parent="1_0XsinDyx6rq08LRmwD-1" vertex="1">
-          <mxGeometry x="260" y="874" width="140" height="70" as="geometry" />
+          <mxGeometry x="260" y="940" width="140" height="70" as="geometry" />
         </mxCell>
         <mxCell id="sk9Y248zYODJuTIbXu7B-5" value="Consultar historia Clinica" style="ellipse;whiteSpace=wrap;html=1;" parent="1_0XsinDyx6rq08LRmwD-1" vertex="1">
-          <mxGeometry x="520" y="874" width="140" height="70" as="geometry" />
+          <mxGeometry x="520" y="940" width="140" height="70" as="geometry" />
         </mxCell>
-        <mxCell id="sk9Y248zYODJuTIbXu7B-6" value="" style="endArrow=none;html=1;rounded=0;" parent="1_0XsinDyx6rq08LRmwD-1" source="sk9Y248zYODJuTIbXu7B-3" target="sk9Y248zYODJuTIbXu7B-0" edge="1">
+        <mxCell id="sk9Y248zYODJuTIbXu7B-6" value="" style="endArrow=none;html=1;rounded=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" parent="1_0XsinDyx6rq08LRmwD-1" source="sk9Y248zYODJuTIbXu7B-3" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="360" y="894" as="sourcePoint" />
-            <mxPoint x="410" y="844" as="targetPoint" />
+            <mxPoint x="110" y="850" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="sk9Y248zYODJuTIbXu7B-7" value="" style="endArrow=none;html=1;rounded=0;" parent="1_0XsinDyx6rq08LRmwD-1" source="sk9Y248zYODJuTIbXu7B-4" target="sk9Y248zYODJuTIbXu7B-0" edge="1">
@@ -2513,13 +2513,31 @@
         </mxCell>
         <mxCell id="sk9Y248zYODJuTIbXu7B-8" value="" style="endArrow=classic;html=1;rounded=0;dashed=1;" parent="1_0XsinDyx6rq08LRmwD-1" source="sk9Y248zYODJuTIbXu7B-5" target="sk9Y248zYODJuTIbXu7B-4" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="360" y="894" as="sourcePoint" />
-            <mxPoint x="410" y="844" as="targetPoint" />
+            <mxPoint x="360" y="960" as="sourcePoint" />
+            <mxPoint x="410" y="910" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="sk9Y248zYODJuTIbXu7B-9" value="Extends" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];rotation=0;" parent="sk9Y248zYODJuTIbXu7B-8" vertex="1" connectable="0">
           <mxGeometry x="-0.3622" y="-1" relative="1" as="geometry">
             <mxPoint x="-17" y="1" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="icaWf1FTvb4CQf-_6Br3-0" value="Registrar Consulta" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1_0XsinDyx6rq08LRmwD-1">
+          <mxGeometry x="260" y="860" width="140" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="icaWf1FTvb4CQf-_6Br3-1" value="" style="endArrow=none;html=1;rounded=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1_0XsinDyx6rq08LRmwD-1" source="icaWf1FTvb4CQf-_6Br3-0" target="sk9Y248zYODJuTIbXu7B-0">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="360" y="980" as="sourcePoint" />
+            <mxPoint x="110" y="931.3265306122448" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="YwVKK7XQ7VEsghxaianc-0" value="Agenda Consulta" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1_0XsinDyx6rq08LRmwD-1">
+          <mxGeometry x="260" y="690" width="140" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="YwVKK7XQ7VEsghxaianc-1" value="" style="endArrow=none;html=1;rounded=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.3333333333333333;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1_0XsinDyx6rq08LRmwD-1" source="YwVKK7XQ7VEsghxaianc-0" target="sk9Y248zYODJuTIbXu7B-0">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="270" y="735" as="sourcePoint" />
+            <mxPoint x="120" y="845.5714285714287" as="targetPoint" />
           </mxGeometry>
         </mxCell>
       </root>
