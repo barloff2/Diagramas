@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-03-16T20:40:44.416Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/99.0.4844.51 Safari/537.36" etag="KD6qzBJ2kZw2lQJViWqh" version="17.1.1" type="github" pages="9">
+<mxfile host="app.diagrams.net" modified="2022-03-16T20:44:38.839Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/99.0.4844.51 Safari/537.36" etag="aDHnYYiUF1YRCo3RwML4" version="17.1.1" type="github" pages="9">
   <diagram id="NCh4oBmM9APoLs2Gsict" name="D. Entidad Relación">
     <mxGraphModel dx="2804" dy="2449" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -1901,7 +1901,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="SIrVhajcQOhxzhvScOKI-8" value="consulta" style="swimlane;fontStyle=1;align=center;verticalAlign=top;childLayout=stackLayout;horizontal=1;startSize=26;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;fontSize=11;html=1;" parent="0E0SBSzSTfMB75aP3sV3-1" vertex="1">
-          <mxGeometry x="325" y="-920" width="200" height="502" as="geometry" />
+          <mxGeometry x="325" y="-920" width="200" height="528" as="geometry" />
         </mxCell>
         <mxCell id="buNlyVujPBHb3yJYJBXT-0" value="+id_consulta:String" style="shape=partialRectangle;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;align=left;spacingLeft=6;fontStyle=1;overflow=hidden;dashed=1;fontSize=11;html=1;" parent="SIrVhajcQOhxzhvScOKI-8" vertex="1">
           <mxGeometry y="26" width="200" height="26" as="geometry">
@@ -1988,6 +1988,9 @@
         <mxCell id="6F0eqM_0A-MVfnKxW1ir-0" value="+cancelarConsulta()" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=11;html=1;" parent="SIrVhajcQOhxzhvScOKI-8" vertex="1">
           <mxGeometry y="476" width="200" height="26" as="geometry" />
         </mxCell>
+        <mxCell id="irOkB5v-swa_YvJ3cWfC-1" value="+almacenarConsulta()" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=11;html=1;" vertex="1" parent="SIrVhajcQOhxzhvScOKI-8">
+          <mxGeometry y="502" width="200" height="26" as="geometry" />
+        </mxCell>
         <mxCell id="S8RsbgaSwQB2DaTgPSp_-0" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=diamondThin;endFill=0;strokeWidth=1;endSize=10;startSize=10;" parent="0E0SBSzSTfMB75aP3sV3-1" source="SIrVhajcQOhxzhvScOKI-12" target="bH4KUCNGKRgARKnUCRlp-4" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
@@ -2007,7 +2010,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="SIrVhajcQOhxzhvScOKI-16" value="Consultante" style="swimlane;fontStyle=1;align=center;verticalAlign=top;childLayout=stackLayout;horizontal=1;startSize=26;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;fontSize=11;html=1;" parent="0E0SBSzSTfMB75aP3sV3-1" vertex="1">
-          <mxGeometry x="129" y="-337" width="210" height="450" as="geometry" />
+          <mxGeometry x="129" y="-337" width="210" height="476" as="geometry" />
         </mxCell>
         <mxCell id="AERSkwofqsaOECijBfyK-0" value="-id_consulta:String" style="shape=partialRectangle;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;align=left;spacingLeft=6;fontStyle=1;overflow=hidden;dashed=1;fontSize=11;html=1;" parent="SIrVhajcQOhxzhvScOKI-16" vertex="1">
           <mxGeometry y="26" width="210" height="26" as="geometry">
@@ -2083,6 +2086,9 @@
         </mxCell>
         <mxCell id="Cd8v9R_H_tka2DHolFEq-3" value="+inactivarConsultante()" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=11;html=1;" parent="SIrVhajcQOhxzhvScOKI-16" vertex="1">
           <mxGeometry y="424" width="210" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="irOkB5v-swa_YvJ3cWfC-0" value="+almacenarConsultante()" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=11;html=1;" vertex="1" parent="SIrVhajcQOhxzhvScOKI-16">
+          <mxGeometry y="450" width="210" height="26" as="geometry" />
         </mxCell>
         <mxCell id="SIrVhajcQOhxzhvScOKI-20" value="Direccion" style="swimlane;fontStyle=1;align=center;verticalAlign=top;childLayout=stackLayout;horizontal=1;startSize=26;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;fontSize=11;html=1;" parent="0E0SBSzSTfMB75aP3sV3-1" vertex="1">
           <mxGeometry x="405" y="113" width="160" height="294" as="geometry" />
@@ -2973,15 +2979,15 @@
     </mxGraphModel>
   </diagram>
   <diagram id="pDb6tmBnChmOeyDul7ry" name="D. Secuencia">
-    <mxGraphModel dx="527" dy="341" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1395" dy="904" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="MEBBNxzf81j313-_4xCK-0" />
         <mxCell id="MEBBNxzf81j313-_4xCK-1" parent="MEBBNxzf81j313-_4xCK-0" />
         <mxCell id="9axWaSkY4Ixl2UgTYqKb-2" value="Psicólogo" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;labelBackgroundColor=none;fontSize=11;" parent="MEBBNxzf81j313-_4xCK-1" vertex="1">
-          <mxGeometry x="87" y="184" width="30" height="60" as="geometry" />
+          <mxGeometry x="73" y="273" width="30" height="60" as="geometry" />
         </mxCell>
         <mxCell id="9axWaSkY4Ixl2UgTYqKb-5" value="Consultante" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;collapsible=0;recursiveResize=0;outlineConnect=0;labelBackgroundColor=none;fontSize=11;rounded=0;" parent="MEBBNxzf81j313-_4xCK-1" vertex="1">
-          <mxGeometry x="521" y="121" width="100" height="640" as="geometry" />
+          <mxGeometry x="507" y="210" width="100" height="679" as="geometry" />
         </mxCell>
         <mxCell id="9axWaSkY4Ixl2UgTYqKb-6" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;labelBackgroundColor=none;fontSize=11;" parent="9axWaSkY4Ixl2UgTYqKb-5" vertex="1">
           <mxGeometry x="45" y="90" width="10" height="221" as="geometry" />
@@ -3001,137 +3007,147 @@
         </mxCell>
         <mxCell id="9axWaSkY4Ixl2UgTYqKb-16" value="" style="html=1;verticalAlign=bottom;labelBackgroundColor=none;endArrow=open;endFill=0;rounded=0;fontSize=11;exitX=0.5;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0;entryY=0.034;entryDx=0;entryDy=0;entryPerimeter=0;" parent="MEBBNxzf81j313-_4xCK-1" source="9axWaSkY4Ixl2UgTYqKb-2" target="Gy-PXnyKiNDEBaNvfXwO-4" edge="1">
           <mxGeometry width="160" relative="1" as="geometry">
-            <mxPoint x="303" y="191" as="sourcePoint" />
-            <mxPoint x="227" y="212.51260504201673" as="targetPoint" />
+            <mxPoint x="289" y="280" as="sourcePoint" />
+            <mxPoint x="213" y="301.51260504201673" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="9axWaSkY4Ixl2UgTYqKb-17" value="Despliega Formulario Consulta" style="html=1;verticalAlign=bottom;labelBackgroundColor=none;endArrow=open;endFill=0;dashed=1;rounded=0;fontSize=11;entryX=1.044;entryY=0.907;entryDx=0;entryDy=0;entryPerimeter=0;" parent="MEBBNxzf81j313-_4xCK-1" edge="1">
           <mxGeometry width="160" relative="1" as="geometry">
-            <mxPoint x="690.5" y="502.27472750000015" as="sourcePoint" />
-            <mxPoint x="287.44000000000005" y="502.27472750000015" as="targetPoint" />
+            <mxPoint x="676.5" y="591.2747275000002" as="sourcePoint" />
+            <mxPoint x="273.44000000000005" y="591.2747275000002" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="9axWaSkY4Ixl2UgTYqKb-19" value="Consulta" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;collapsible=0;recursiveResize=0;outlineConnect=0;labelBackgroundColor=none;fontSize=11;" parent="MEBBNxzf81j313-_4xCK-1" vertex="1">
-          <mxGeometry x="641" y="121" width="100" height="560" as="geometry" />
+          <mxGeometry x="627" y="210" width="100" height="560" as="geometry" />
         </mxCell>
         <mxCell id="9axWaSkY4Ixl2UgTYqKb-20" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;labelBackgroundColor=none;fontSize=11;" parent="9axWaSkY4Ixl2UgTYqKb-19" vertex="1">
           <mxGeometry x="45" y="311" width="10" height="159" as="geometry" />
         </mxCell>
         <mxCell id="9axWaSkY4Ixl2UgTYqKb-21" value="1.2 buscarConsultante()" style="html=1;verticalAlign=bottom;labelBackgroundColor=none;endArrow=open;endFill=0;rounded=0;fontSize=11;exitX=1.016;exitY=0.212;exitDx=0;exitDy=0;exitPerimeter=0;entryX=-0.002;entryY=0.373;entryDx=0;entryDy=0;entryPerimeter=0;" parent="MEBBNxzf81j313-_4xCK-1" target="9axWaSkY4Ixl2UgTYqKb-6" edge="1">
           <mxGeometry width="160" relative="1" as="geometry">
-            <mxPoint x="287.1600000000001" y="293.47910428571436" as="sourcePoint" />
-            <mxPoint x="570.5" y="293.47910428571436" as="targetPoint" />
+            <mxPoint x="273.1600000000001" y="382.47910428571436" as="sourcePoint" />
+            <mxPoint x="556.5" y="382.47910428571436" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="9axWaSkY4Ixl2UgTYqKb-22" value="Lista de consultantes" style="html=1;verticalAlign=bottom;labelBackgroundColor=none;endArrow=open;endFill=0;dashed=1;rounded=0;fontSize=11;entryX=1.035;entryY=0.072;entryDx=0;entryDy=0;entryPerimeter=0;" parent="MEBBNxzf81j313-_4xCK-1" source="9axWaSkY4Ixl2UgTYqKb-6" edge="1">
           <mxGeometry width="160" relative="1" as="geometry">
-            <mxPoint x="607.49" y="343.95000000000005" as="sourcePoint" />
-            <mxPoint x="287.3499999999999" y="251.4195542857144" as="targetPoint" />
+            <mxPoint x="593.49" y="432.95000000000005" as="sourcePoint" />
+            <mxPoint x="273.3499999999999" y="340.4195542857144" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="9axWaSkY4Ixl2UgTYqKb-23" value="Selecciona Consultante" style="html=1;verticalAlign=bottom;labelBackgroundColor=none;endArrow=open;endFill=0;rounded=0;fontSize=11;entryX=-0.099;entryY=0.399;entryDx=0;entryDy=0;entryPerimeter=0;" parent="MEBBNxzf81j313-_4xCK-1" target="Gy-PXnyKiNDEBaNvfXwO-4" edge="1">
           <mxGeometry width="160" relative="1" as="geometry">
-            <mxPoint x="130" y="360" as="sourcePoint" />
-            <mxPoint x="267" y="361" as="targetPoint" />
+            <mxPoint x="116" y="449" as="sourcePoint" />
+            <mxPoint x="253" y="450" as="targetPoint" />
             <Array as="points" />
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="9axWaSkY4Ixl2UgTYqKb-24" value="Despliega Consultante" style="html=1;verticalAlign=bottom;labelBackgroundColor=none;endArrow=open;endFill=0;dashed=1;rounded=0;fontSize=11;entryX=1.042;entryY=0.397;entryDx=0;entryDy=0;entryPerimeter=0;exitX=-0.002;exitY=0.625;exitDx=0;exitDy=0;exitPerimeter=0;" parent="MEBBNxzf81j313-_4xCK-1" source="9axWaSkY4Ixl2UgTYqKb-6" edge="1">
           <mxGeometry width="160" relative="1" as="geometry">
-            <mxPoint x="570.5" y="349.0577953571428" as="sourcePoint" />
-            <mxPoint x="287.4200000000001" y="349.0577953571428" as="targetPoint" />
+            <mxPoint x="556.5" y="438.0577953571428" as="sourcePoint" />
+            <mxPoint x="273.4200000000001" y="438.0577953571428" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="9axWaSkY4Ixl2UgTYqKb-25" value="Despliega perfil consultante" style="html=1;verticalAlign=bottom;labelBackgroundColor=none;endArrow=open;endFill=0;dashed=1;rounded=0;fontSize=11;entryX=1.045;entryY=0.629;entryDx=0;entryDy=0;entryPerimeter=0;exitX=-0.029;exitY=0.946;exitDx=0;exitDy=0;exitPerimeter=0;" parent="MEBBNxzf81j313-_4xCK-1" source="9axWaSkY4Ixl2UgTYqKb-6" edge="1">
           <mxGeometry width="160" relative="1" as="geometry">
-            <mxPoint x="560" y="420" as="sourcePoint" />
-            <mxPoint x="287.45000000000005" y="418.75647821428583" as="targetPoint" />
+            <mxPoint x="546" y="509" as="sourcePoint" />
+            <mxPoint x="273.45000000000005" y="507.75647821428583" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="Gy-PXnyKiNDEBaNvfXwO-1" value="2. registrarConsulta()" style="html=1;verticalAlign=bottom;labelBackgroundColor=none;endArrow=open;endFill=0;rounded=0;fontSize=11;" parent="MEBBNxzf81j313-_4xCK-1" edge="1">
           <mxGeometry width="160" relative="1" as="geometry">
-            <mxPoint x="287" y="452" as="sourcePoint" />
-            <mxPoint x="690.5" y="452" as="targetPoint" />
+            <mxPoint x="273" y="541" as="sourcePoint" />
+            <mxPoint x="676.5" y="541" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="587" y="452" />
+              <mxPoint x="573" y="541" />
             </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="Gy-PXnyKiNDEBaNvfXwO-5" value="2.1 almacenarConsulta()" style="html=1;verticalAlign=bottom;labelBackgroundColor=none;endArrow=open;endFill=0;rounded=0;fontSize=11;" parent="MEBBNxzf81j313-_4xCK-1" edge="1">
           <mxGeometry width="160" relative="1" as="geometry">
-            <mxPoint x="287" y="542" as="sourcePoint" />
-            <mxPoint x="686.5" y="542" as="targetPoint" />
+            <mxPoint x="273" y="631" as="sourcePoint" />
+            <mxPoint x="672.5" y="631" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="Gy-PXnyKiNDEBaNvfXwO-6" value="Mensaje de exito al guardar" style="html=1;verticalAlign=bottom;labelBackgroundColor=none;endArrow=open;endFill=0;dashed=1;rounded=0;fontSize=11;entryX=1.044;entryY=0.907;entryDx=0;entryDy=0;entryPerimeter=0;" parent="MEBBNxzf81j313-_4xCK-1" edge="1">
+        <mxCell id="Gy-PXnyKiNDEBaNvfXwO-6" value="2.2Mensaje de exito al guardar" style="html=1;verticalAlign=bottom;labelBackgroundColor=none;endArrow=open;endFill=0;dashed=1;rounded=0;fontSize=11;entryX=1.044;entryY=0.907;entryDx=0;entryDy=0;entryPerimeter=0;" parent="MEBBNxzf81j313-_4xCK-1" edge="1">
           <mxGeometry width="160" relative="1" as="geometry">
-            <mxPoint x="686.06" y="592.0047275000002" as="sourcePoint" />
-            <mxPoint x="287.00000000000006" y="592.0047275000002" as="targetPoint" />
+            <mxPoint x="672.06" y="670.0047275000002" as="sourcePoint" />
+            <mxPoint x="273.00000000000006" y="670.0047275000002" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="Gy-PXnyKiNDEBaNvfXwO-7" value="1.2.1 Consultante no se encuentra registrado" style="html=1;verticalAlign=bottom;labelBackgroundColor=none;endArrow=open;endFill=0;dashed=1;rounded=0;fontSize=11;exitX=-0.024;exitY=0.127;exitDx=0;exitDy=0;exitPerimeter=0;" parent="MEBBNxzf81j313-_4xCK-1" source="p7OmADCHZgTAUmTzoyre-1" edge="1">
           <mxGeometry x="-0.0018" width="160" relative="1" as="geometry">
-            <mxPoint x="560" y="637" as="sourcePoint" />
-            <mxPoint x="287" y="637" as="targetPoint" />
+            <mxPoint x="546" y="726" as="sourcePoint" />
+            <mxPoint x="273" y="726" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="357" y="637" />
+              <mxPoint x="343" y="726" />
             </Array>
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="VDbZ8ocLkdoKoqkTsx7A-0" value="1.3 seleccionarConsultante()" style="html=1;verticalAlign=bottom;labelBackgroundColor=none;endArrow=open;endFill=0;rounded=0;fontSize=11;entryX=0.006;entryY=0.801;entryDx=0;entryDy=0;entryPerimeter=0;" parent="MEBBNxzf81j313-_4xCK-1" target="9axWaSkY4Ixl2UgTYqKb-6" edge="1">
           <mxGeometry width="160" relative="1" as="geometry">
-            <mxPoint x="287" y="388" as="sourcePoint" />
-            <mxPoint x="570" y="388" as="targetPoint" />
+            <mxPoint x="273" y="477" as="sourcePoint" />
+            <mxPoint x="556" y="477" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="371" y="388" />
+              <mxPoint x="357" y="477" />
             </Array>
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="kQrwo2qFKtKQYa2EzpJJ-0" value="Diagrama de Secuencias: Registrar consulta" style="text;strokeColor=none;fillColor=none;html=1;fontSize=24;fontStyle=1;verticalAlign=middle;align=center;" parent="MEBBNxzf81j313-_4xCK-1" vertex="1">
+        <mxCell id="kQrwo2qFKtKQYa2EzpJJ-0" value="Diagrama de Secuencia: Registrar consulta" style="text;strokeColor=none;fillColor=none;html=1;fontSize=24;fontStyle=1;verticalAlign=middle;align=center;" parent="MEBBNxzf81j313-_4xCK-1" vertex="1">
           <mxGeometry x="154" y="40" width="520" height="40" as="geometry" />
         </mxCell>
         <mxCell id="p7OmADCHZgTAUmTzoyre-0" value="1.1 seleccionarconsultates()" style="html=1;verticalAlign=bottom;labelBackgroundColor=none;endArrow=open;endFill=0;rounded=0;fontSize=11;exitX=1.039;exitY=0.031;exitDx=0;exitDy=0;exitPerimeter=0;entryX=-0.035;entryY=0.01;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="MEBBNxzf81j313-_4xCK-1" source="Gy-PXnyKiNDEBaNvfXwO-4" target="9axWaSkY4Ixl2UgTYqKb-6">
           <mxGeometry width="160" relative="1" as="geometry">
-            <mxPoint x="289.99999999999983" y="213.44910428571436" as="sourcePoint" />
-            <mxPoint x="560" y="210" as="targetPoint" />
+            <mxPoint x="275.99999999999983" y="302.4491042857144" as="sourcePoint" />
+            <mxPoint x="546" y="299" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="9axWaSkY4Ixl2UgTYqKb-10" value="&lt;div&gt;Interfaz&lt;/div&gt;&lt;div&gt;INSPIRAR&lt;br&gt;&lt;/div&gt;" style="ellipse;html=1;labelBackgroundColor=none;fontSize=11;align=center;verticalAlign=middle;" parent="MEBBNxzf81j313-_4xCK-1" vertex="1">
-          <mxGeometry x="252" y="111" width="60" height="60" as="geometry" />
+          <mxGeometry x="238" y="200" width="60" height="60" as="geometry" />
         </mxCell>
         <mxCell id="9axWaSkY4Ixl2UgTYqKb-15" value="" style="endArrow=none;html=1;rounded=0;align=center;verticalAlign=top;endFill=0;labelBackgroundColor=none;endSize=6;fontSize=11;dashed=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" parent="MEBBNxzf81j313-_4xCK-1" source="9axWaSkY4Ixl2UgTYqKb-10" edge="1">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="280" y="960" as="targetPoint" />
-            <mxPoint x="282" y="181" as="sourcePoint" />
+            <mxPoint x="268" y="889" as="targetPoint" />
+            <mxPoint x="268" y="270" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="Gy-PXnyKiNDEBaNvfXwO-4" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;labelBackgroundColor=none;fontSize=11;" parent="MEBBNxzf81j313-_4xCK-1" vertex="1">
-          <mxGeometry x="277" y="201" width="10" height="400" as="geometry" />
+          <mxGeometry x="263" y="290" width="10" height="400" as="geometry" />
         </mxCell>
         <mxCell id="0XPDr9pzp3cGTynZdxIo-0" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;labelBackgroundColor=none;fontSize=11;" vertex="1" parent="MEBBNxzf81j313-_4xCK-1">
-          <mxGeometry x="277" y="629" width="10" height="131" as="geometry" />
+          <mxGeometry x="263" y="718" width="10" height="131" as="geometry" />
         </mxCell>
         <mxCell id="pmmJShix-guXGTcpaAZR-0" value="1.2.2 registrarConsultante()" style="html=1;verticalAlign=bottom;labelBackgroundColor=none;endArrow=open;endFill=0;rounded=0;fontSize=11;exitX=1.016;exitY=0.212;exitDx=0;exitDy=0;exitPerimeter=0;entryX=-0.001;entryY=0.331;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="MEBBNxzf81j313-_4xCK-1" target="p7OmADCHZgTAUmTzoyre-1">
           <mxGeometry width="160" relative="1" as="geometry">
-            <mxPoint x="286.9999999999998" y="665.9991042857143" as="sourcePoint" />
-            <mxPoint x="560" y="666" as="targetPoint" />
+            <mxPoint x="272.9999999999998" y="754.9991042857143" as="sourcePoint" />
+            <mxPoint x="546" y="755" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="pmmJShix-guXGTcpaAZR-2" value="Diligenciar formulario y guardar" style="html=1;verticalAlign=bottom;labelBackgroundColor=none;endArrow=open;endFill=0;rounded=0;fontSize=11;entryX=-0.016;entryY=0.695;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="MEBBNxzf81j313-_4xCK-1" target="0XPDr9pzp3cGTynZdxIo-0">
           <mxGeometry width="160" relative="1" as="geometry">
-            <mxPoint x="107.99000000000001" y="720" as="sourcePoint" />
-            <mxPoint x="254" y="720.5999999999999" as="targetPoint" />
+            <mxPoint x="93.99000000000001" y="809" as="sourcePoint" />
+            <mxPoint x="240" y="809.5999999999999" as="targetPoint" />
             <Array as="points" />
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="pmmJShix-guXGTcpaAZR-3" value="1.2.2 registrarConsultante()" style="html=1;verticalAlign=bottom;labelBackgroundColor=none;endArrow=open;endFill=0;rounded=0;fontSize=11;exitX=1.016;exitY=0.212;exitDx=0;exitDy=0;exitPerimeter=0;entryX=-0.001;entryY=0.331;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="MEBBNxzf81j313-_4xCK-1">
+        <mxCell id="pmmJShix-guXGTcpaAZR-3" value="1.2.4 almacenarConsultante()" style="html=1;verticalAlign=bottom;labelBackgroundColor=none;endArrow=open;endFill=0;rounded=0;fontSize=11;exitX=1.016;exitY=0.212;exitDx=0;exitDy=0;exitPerimeter=0;entryX=-0.001;entryY=0.331;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="MEBBNxzf81j313-_4xCK-1">
           <mxGeometry width="160" relative="1" as="geometry">
-            <mxPoint x="286.9999999999998" y="729.9991042857143" as="sourcePoint" />
-            <mxPoint x="565.99" y="730.002" as="targetPoint" />
+            <mxPoint x="272.9999999999998" y="818.9991042857143" as="sourcePoint" />
+            <mxPoint x="551.99" y="819.002" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="gxQQtcFqHQrbOukuKRv6-1" value="1.2.3 Ingrese los datos del consultante" style="html=1;verticalAlign=bottom;labelBackgroundColor=none;endArrow=open;endFill=0;dashed=1;rounded=0;fontSize=11;" edge="1" parent="MEBBNxzf81j313-_4xCK-1">
+          <mxGeometry x="-0.0018" width="160" relative="1" as="geometry">
+            <mxPoint x="554" y="850" as="sourcePoint" />
+            <mxPoint x="271" y="850" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="341" y="850" />
+            </Array>
+            <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
       </root>
