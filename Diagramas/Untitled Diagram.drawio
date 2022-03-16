@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-03-16T20:44:38.839Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/99.0.4844.51 Safari/537.36" etag="aDHnYYiUF1YRCo3RwML4" version="17.1.1" type="github" pages="9">
+<mxfile host="app.diagrams.net" modified="2022-03-16T20:46:00.353Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/99.0.4844.51 Safari/537.36" etag="MNcnZ-hW5ffnD2phhnYB" version="17.1.1" type="github" pages="9">
   <diagram id="NCh4oBmM9APoLs2Gsict" name="D. Entidad Relación">
     <mxGraphModel dx="2804" dy="2449" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -2979,7 +2979,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="pDb6tmBnChmOeyDul7ry" name="D. Secuencia">
-    <mxGraphModel dx="1395" dy="904" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="765" dy="495" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="MEBBNxzf81j313-_4xCK-0" />
         <mxCell id="MEBBNxzf81j313-_4xCK-1" parent="MEBBNxzf81j313-_4xCK-0" />
@@ -3070,7 +3070,7 @@
             <mxPoint x="672.5" y="631" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="Gy-PXnyKiNDEBaNvfXwO-6" value="2.2Mensaje de exito al guardar" style="html=1;verticalAlign=bottom;labelBackgroundColor=none;endArrow=open;endFill=0;dashed=1;rounded=0;fontSize=11;entryX=1.044;entryY=0.907;entryDx=0;entryDy=0;entryPerimeter=0;" parent="MEBBNxzf81j313-_4xCK-1" edge="1">
+        <mxCell id="Gy-PXnyKiNDEBaNvfXwO-6" value="2.2 Mensaje de éxito al guardar" style="html=1;verticalAlign=bottom;labelBackgroundColor=none;endArrow=open;endFill=0;dashed=1;rounded=0;fontSize=11;entryX=1.044;entryY=0.907;entryDx=0;entryDy=0;entryPerimeter=0;" parent="MEBBNxzf81j313-_4xCK-1" edge="1">
           <mxGeometry width="160" relative="1" as="geometry">
             <mxPoint x="672.06" y="670.0047275000002" as="sourcePoint" />
             <mxPoint x="273.00000000000006" y="670.0047275000002" as="targetPoint" />
@@ -3140,7 +3140,7 @@
             <mxPoint x="551.99" y="819.002" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="gxQQtcFqHQrbOukuKRv6-1" value="1.2.3 Ingrese los datos del consultante" style="html=1;verticalAlign=bottom;labelBackgroundColor=none;endArrow=open;endFill=0;dashed=1;rounded=0;fontSize=11;" edge="1" parent="MEBBNxzf81j313-_4xCK-1">
+        <mxCell id="gxQQtcFqHQrbOukuKRv6-1" value="1.2.5 Mensaje de éxito al guardar" style="html=1;verticalAlign=bottom;labelBackgroundColor=none;endArrow=open;endFill=0;dashed=1;rounded=0;fontSize=11;" edge="1" parent="MEBBNxzf81j313-_4xCK-1">
           <mxGeometry x="-0.0018" width="160" relative="1" as="geometry">
             <mxPoint x="554" y="850" as="sourcePoint" />
             <mxPoint x="271" y="850" as="targetPoint" />
